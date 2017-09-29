@@ -1,0 +1,73 @@
+Player details:
+
+
+Player at position 1
+	IRFU: 110
+	First Name: A
+	Second Name: Name
+	Age: 12
+	Height: 190.00
+	Weight: 90.00
+	Club: none
+	Email: none@none.com
+	Position: Second Row
+	Tackles missed per match: Less than five times per match
+	Metres made per game: Less than 20 metres
+Player at position 2
+	IRFU: 111
+	First Name: Krisz
+	Second Name: Nagy
+	Age: 25
+	Height: 175.00
+	Weight: 72.00
+	Club: 1
+	Email: mxsxs2@gmail.com
+	Position: Second Row
+	Tackles missed per match: Less than five times per match
+	Metres made per game: Less than 20 metres
+Player at position 3
+	IRFU: 112
+	First Name: Veronica
+	Second Name: Gomes
+	Age: 22
+	Height: 162.00
+	Weight: 62.00
+	Club: ClubPenguin
+	Email: asd@asd.com
+	Position: Second Row
+	Tackles missed per match: Less than five times per match
+	Metres made per game: Less than 20 metres
+Player at position 4
+	IRFU: 113
+	First Name: Some
+	Second Name: One
+	Age: 26
+	Height: 180.00
+	Weight: 80.00
+	Club: None
+	Email: mail@mail.com
+	Position: Second Row
+	Tackles missed per match: Less than five times per match
+	Metres made per game: Less than 20 metres
+Player at position 5
+	IRFU: 129
+	First Name: pp
+	Second Name: pp
+	Age: 22
+	Height: 11.00
+	Weight: 11.00
+	Club: s
+	Email: @.com
+	Position: Prop
+	Tackles missed per match: Never
+	Metres made per game: None
+
+Player satistics:
+0 of players who miss no tackles
+0 of players who miss less than 3 tackles per match
+4 of players who miss less than 5 tackles per match
+0 of players who miss more than 5 tackles per match
+0 of players who make no metres in a game
+0 of players who make less than 10 meters in a game
+4 of players who make less than 20 meters in a game
+0 of players who make more than 20 meters in a game

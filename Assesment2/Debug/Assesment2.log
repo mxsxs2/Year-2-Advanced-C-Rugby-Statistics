@@ -1,0 +1,90 @@
+﻿  statistics.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\statistics.c(21): warning C4013: 'printf' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\statistics.c(31): warning C4013: 'scanf' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\statistics.c(51): warning C4013: 'free' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\statistics.c(81): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\statistics.c(90): warning C4013: 'strcpy' undefined; assuming extern returning int
+  menu.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(53): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(88): warning C4013: 'generateSatistics' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(95): warning C4013: 'savePlayerStatisticsAndDetails' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(47): warning C4101: 'tmpInt': unreferenced local variable
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(46): warning C4101: 'tmpTxt': unreferenced local variable
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\menu.c(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\main.c(14): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\main.c(52): warning C4013: 'free' undefined; assuming extern returning int
+  login.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\login.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\login.c(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\login.c(30): warning C4013: 'getch' undefined; assuming extern returning int
+  list.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(61): warning C4013: 'strcpy' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(126): warning C4013: 'strstr' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(68): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(124): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(148): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(173): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(348): warning C4013: 'strcmp' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(397): warning C4013: 'free' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(415): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\list.c(416): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  file.c
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(50): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(72): warning C4013: 'free' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(53): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(55): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(111): warning C4013: 'generateSatistics' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(161): warning C4013: 'strcmp' undefined; assuming extern returning int
+e:\year2 sem 2\advanced c\assesment2\assesment2\assesment2\file.c(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating Code...
+  Assesment2.vcxproj -> E:\Year2 Sem 2\Advanced C\Assesment2\Assesment2\Debug\Assesment2.exe
+  Assesment2.vcxproj -> E:\Year2 Sem 2\Advanced C\Assesment2\Assesment2\Debug\Assesment2.pdb (Full PDB)
