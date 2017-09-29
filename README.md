@@ -5,40 +5,40 @@ The application is a database and analyser for rugby players.
 In order to run the applaication, it has to be built first. It can be buil either from the "Assesment2" folder with a commandline compiler or open up the Assesment2.sln in Microsoft Visual Studio and build from there.
 
 
-The application has the following fetures:
+# Fetures:
 0) Login
-	The login details are stored in password.pw file. The file contains the user name and a pasword has for each user.
-	The password and user name are 6 charcater long and required in th beggining of the program.
-	The login is a simple struct,which is passed to various functions
+* The login details are stored in password.pw file. The file contains the user name and a pasword has for each user.
+* The password and user name are 6 charcater long and required in th beggining of the program.
+* The login is a simple struct,which is passed to various functions
 1) Add	player
-	Request several details of the palyer then save it intu a player struct.
- 	The IRFU id is unique in the whole list.
-	The list is ordered on insertion by the IRFU id
+* Request several details of the palyer then save it intu a player struct.
+* The IRFU id is unique in the whole list.
+* The list is ordered on insertion by the IRFU id
 2) Display all players to screen
-	Loop throught the list of players and displays every single detail of the players.
+* Loop throught the list of players and displays every single detail of the players.
 3) Display player Details
-	Requires and input fomr the user, which can be the IRFU or the First name of the player.
-	Loops throught the list and displays the first macth. (If two players has the same name, the first will be shown)
+* Requires and input fomr the user, which can be the IRFU or the First name of the player.
+* Loops throught the list and displays the first macth. (If two players has the same name, the first will be shown)
 4) Update a player’s statistic
-	Requires and input fomr the user, which can be the IRFU or the First name of the player.
-	Loops throught the list and displays the first macth for update. (If two players has the same name, the first will be shown)
-	Every attribute of a player can be edited.
+* Requires and input fomr the user, which can be the IRFU or the First name of the player.
+* Loops throught the list and displays the first macth for update. (If two players has the same name, the first will be shown)
+* Every attribute of a player can be edited.
 5) Delete player
-	Requires and the IRFU the player.
-	Will remove from any position. 
+* Requires and the IRFU the player.
+* Will remove from any position. 
 6) Generate statistics based on the user selecting one of the criteria listed in I - II
-	Requires the user to choose one of the two options:
-	I.Player Position
-		Requires the user to choose the position of the player.
-	II. Weight
-		Requires the player to input a weight. The data will be filtered this weight upwards.
+* Requires the user to choose one of the two options:
+	* Player Position
+		* Requires the user to choose the position of the player.
+	* Weight
+		* Requires the player to input a weight. The data will be filtered this weight upwards.
 7) Print all player details into a report file.
-	Does the same as menu 2 and menu 6, but insted of writing to the screen. It writes to playerreport.txt.
+* Does the same as menu 2 and menu 6, but insted of writing to the screen. It writes to playerreport.txt.
 8) List all the players of the following categories in order of height:
-	Requires the user to chose one of the following:
-		• Second Row
-		• Back Row
-	Re organizes and filters the whole list into a new list. The list is in order by height.
+* Requires the user to chose one of the following:
+	* Second Row
+	* Back Row
+* Re organizes and filters the whole list into a new list. The list is in order by height.
 
 
 
